@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.rathinamcollege.edu.in%2Fwp-content%2Fuploads%2F2020%2F06%2FAi-ml.png&imgrefurl=https%3A%2F%2Fwww.rathinamcollege.edu.in%2Fblog%2Fartificial-intelligence-and-machine-learning-in-2020%2F&tbnid=Gcytk2JzmsRN6M&vet=12ahUKEwjexsmwwd_sAhWKNisKHdkhBkkQMygCegUIARCdAQ..i&docid=u5QXfgrR9WBSWM&w=1000&h=560&itg=1&q=ai%20and%20ml%20hd%20images&hl=en&ved=2ahUKEwjexsmwwd_sAhWKNisKHdkhBkkQMygCegUIARCdAQ" alt="AI and ML"/>
+<img src="http://wiredsoft.org/BlogImage/ML.jpg" alt="no image avail" style="width:750px; height:450px"/>
