@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **aryamanprince/aryamanprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://wallpaperaccess.com/full/1398313.jpg" alt="no image avail" width="500px" height="300px" align="right"/>
+<img src="https://wallpaperaccess.com/full/1398313.jpg" alt="no image avail" width="500px" height="350px" align="right"/>
 <div position="relative">
-    I am Aryaman Singh Kushwaha, an ml enthusiast and front end web developer, currently in 2nd year electrical engineering at NIT Jaipur.
+    I am Aryaman Singh Kushwaha, an ml enthusiast \
+    and front end web developer, currently in 2nd year electrical engineering at NIT Jaipur.
 </div>
