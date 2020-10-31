@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="http://wiredsoft.org/BlogImage/ML.jpg" alt="no image avail" width="500px" height="300px" align="right"/>
+<img src="https://wallpaperaccess.com/full/1398313.jpg" alt="no image avail" width="500px" height="300px" align="right"/>
 <div position="relative">
     I am Aryaman Singh Kushwaha, an ml enthusiast and front end web developer, currently in 2nd year electrical engineering at NIT Jaipur.
 </div>
