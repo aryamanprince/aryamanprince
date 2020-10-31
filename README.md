@@ -1,5 +1,3 @@
-<br>
-<br>
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--
 **aryamanprince/aryamanprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://wallpaperaccess.com/full/1398313.jpg" alt="no image avail" width="500px" height="350px" align="right"/>
-<br>
-<br>
 <div position="relative">
     I am <b>Aryaman Singh Kushwaha</b>, an ml enthusiast <br>
     and front end web developer, currently in 2nd year electrical engineering at NIT Jaipur.
