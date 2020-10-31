@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="https://wallpaperaccess.com/full/1398313.jpg" alt="no image avail" width="500px" height="350px" align="right"/>
 <div position="relative">
-    I am <h3>Aryaman Singh Kushwaha</h3>, an ml enthusiast <br>
+    I am <h3 style="display: inline;">Aryaman Singh Kushwaha</h3>, an ml enthusiast <br>
     and front end web developer, currently in 2nd year electrical engineering at NIT Jaipur.
 </div>
 
